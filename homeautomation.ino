@@ -17,8 +17,8 @@
 
 #define AIO_SERVER      "io.adafruit.com" //Adafruit Server
 #define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME    "hassham"            // Username
-#define AIO_KEY         "19a43d0b934c420cada42b9941af3215"   // Auth Key
+#define AIO_USERNAME    "SHA"            // Username
+#define AIO_KEY         "------------------"   // Auth Key
 
 //WIFI CLIENT
 WiFiClient client;
